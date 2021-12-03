@@ -106,3 +106,20 @@ field = model1.export_field('bxyz', 'field.fld')
 # save field to npy
 np.save('bxyz.npy', field)
 ```
+
+## Cite this repository
+If you are using EMOT as part of your research, teaching, or other activities, we would be grateful if you could star
+the repository and/or cite our work. 
+
+For citation purposes, you can use the following BibTex entry.
+```bibtex
+@software{Wu_EMOT_2021,
+author = {Wu, Huihuan and Bi, Yanding and Huang, Jiahui},
+doi = {10.5281/zenodo.1234},
+month = {12},
+title = {{EMOT}},
+url = {https://github.com/hh-wu/EMOT},
+version = {1.0.6},
+year = {2021}
+}
+```
