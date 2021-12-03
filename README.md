@@ -1,4 +1,6 @@
 # Electric Machine Optimization Tool (EMOT)
+[![DOI](https://zenodo.org/badge/434496463.svg)](https://zenodo.org/badge/latestdoi/434496463)
+
 EMOT is a tool for optimal design of electric machines.
 
 It consists of .aedt file  io for parsing model files from Ansys Maxwell and 
@@ -115,7 +117,7 @@ For citation purposes, you can use the following BibTex entry.
 ```bibtex
 @software{Wu_EMOT_2021,
 author = {Wu, Huihuan and Bi, Yanding and Huang, Jiahui},
-doi = {10.5281/zenodo.1234},
+doi = {10.5281/zenodo.5751256},
 month = {12},
 title = {{EMOT}},
 url = {https://github.com/hh-wu/EMOT},
