@@ -1,4 +1,5 @@
 # Electric Machine Optimization Tool (EMOT)
+
 [![DOI](https://zenodo.org/badge/434496463.svg)](https://zenodo.org/badge/latestdoi/434496463)
 
 EMOT is a tool for optimal design of electric machines.
