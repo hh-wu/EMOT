@@ -10,8 +10,8 @@ authors:
 - family-names: "Huang"
   given-names: "Jiahui"
 #   orcid: "https://orcid.org/0000-0003-3299-5041"
-title: "IPMOPT"
+title: "EMOT"
 version: 1.0.6
 doi: 10.5281/zenodo.1234
 date-released: 2021-12-02
-url: "https://github.com/hh-wu/IPMOPT"
+url: "https://github.com/hh-wu/EMOT"
